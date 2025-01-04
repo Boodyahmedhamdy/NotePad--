@@ -1,2 +1,4 @@
+![](media/NotePad.jpg)
+
 # NotePad--
 Simple Notepad Desktop application using java 8 and Javafx
